@@ -4,7 +4,7 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.ArrayList;
-public class Principal {
+public class Main {
     public static void main (String []args){
         long startTime = System.currentTimeMillis();
         int rodadas = 0; //nro de rodadas
